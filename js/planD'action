@@ -1,0 +1,15 @@
+                                plan d'action
+
+ 1)je voudrais crèer un genre d'instrument de music seulement en cliquand les touvhes du clavier.
+
+ 2)je crèer des button à partir de mon html relier à mon js pour faire l'èvenement clique et qui 
+  me permettra de gènerer des  à partir des touche du claviers
+
+  3)je vais stylisè mes 9pads avec du css avant et après la clique  des touches
+
+  4)lorsque le son et en cour l'èvènement "classList.add" se declenche pour changer l'animation
+
+  5)je doit crèe 2 fichier js  relier pour pouvoir faire les importation et les exportation de mes contenu js
+
+  6)la liaison de mes 2 fichier js se faira a l'aide d'un parcel que je vais telecharger 
+   dans le terminal.
