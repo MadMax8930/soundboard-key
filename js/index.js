@@ -1,3 +1,3 @@
-import { all } from "./functions";
+import { all } from "/js/functions.js";
 
 all();

@@ -162,10 +162,10 @@ function all() {
 },{}],"js/index.js":[function(require,module,exports) {
 "use strict";
 
-var _functions = require("./functions");
+var _functions = require("/js/functions.js");
 
 (0, _functions.all)();
-},{"./functions":"js/functions.js"}],"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"/js/functions.js":"js/functions.js"}],"../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -193,7 +193,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "64338" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49421" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
