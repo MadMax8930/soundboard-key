@@ -6,9 +6,9 @@
     "dev": "parcel index.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "Max",
   "license": "ISC",
-  "description": "",
+  "description": "soundboard",
   "dependencies": {
     "js": "^0.1.0"
   }
