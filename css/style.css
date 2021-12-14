@@ -27,7 +27,6 @@ main {
   height: 100%;
 }
 
-
 #btn-section {
   display: flex;
   flex-direction: row;
@@ -36,14 +35,6 @@ main {
   justify-content: space-around;
   height: 100%;
 }
-/* #btn-section{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  flex-direction: row;
-  height: 100%;
-  
-} */
 
 .btn-container {
   width: 33%;
@@ -70,14 +61,9 @@ button.sound-active {
    transition: all 0.7s ease-in-out;
 }
 
-/* DECOMMENTER LES LIGNES EN DESSOUS ET COMPLETER LES 
-  cela permettra d'ajouter une règle de mise en forme de 
- */
- @media screen and (min-width :280px) {
+@media screen and (min-width :280px) {
   .btn-container {
      width: 35%;
       
   }
- 
-  
 } 
